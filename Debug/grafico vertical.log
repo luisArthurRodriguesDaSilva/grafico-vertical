@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\luisa\Desktop\visual studio\grafico vertical\Origem.cpp(7,30): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+  grafico vertical.vcxproj -> C:\Users\luisa\Desktop\visual studio\grafico vertical\Debug\grafico vertical.exe
